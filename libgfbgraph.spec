@@ -1,7 +1,7 @@
 Summary:	GObject library for Facebook Graph API
 Name:		libgfbgraph
 Version:	0.2.2
-Release:	1
+Release:	2
 License:	GPL v3
 Group:		Libraries
 Source0:	https://download.gnome.org/sources/gfbgraph/0.2/gfbgraph-%{version}.tar.xz
